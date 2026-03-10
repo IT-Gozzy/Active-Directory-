@@ -34,4 +34,5 @@ This project is a hands-on Active Directory home lab built with Windows Server 2
 - IT troubleshooting and documentation
 
 ## Folder Structure
-Screenshots
+Screenshots/01-Domain Controller.png
+
