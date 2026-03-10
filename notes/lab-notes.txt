@@ -1,0 +1,17 @@
+Active Directory Home Lab Notes
+
+Environment:
+- Windows Server 2022
+- Windows 11
+- VirtualBox
+
+Tasks completed:
+- Installed AD DS
+- Promoted server to Domain Controller
+- Created Organizational Units for departments
+- Created users and groups
+- Configured shared folder permissions
+- Applied Group Policy for desktop wallpaper
+- Prevented users from changing wallpaper
+- Configured account lockout after 3 failed attempts
+- Used PowerShell to reset user password and force password change at next logon
