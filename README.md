@@ -34,19 +34,4 @@ This project is a hands-on Active Directory home lab built with Windows Server 2
 - IT troubleshooting and documentation
 
 ## Folder Structure
-```text
-active-directory-home-lab/
-├── screenshots/
-└── notes/
-    └── lab-notes.txt
-
-```md
-![Domain Controller Setup](screenshots/01-domain-controller.png)
-![Users and Groups](screenshots/02-users-and-groups.png)
-![Organizational Units](screenshots/03-organizational-units.png)
-![Shared Folder Permissions](screenshots/04-shared-folder-permissions.png)
-![Wallpaper Group Policy](screenshots/05-wallpaper-gpo.png)
-![Prevent Wallpaper Change Policy](screenshots/06-prevent-wallpaper-change.png)
-![Account Lockout Policy](screenshots/07-account-lockout-policy.png)
-![PowerShell Password Reset](screenshots/08-powershell-password-reset.png)
-
+Screenshots
