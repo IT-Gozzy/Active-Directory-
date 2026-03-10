@@ -35,4 +35,4 @@ This project is a hands-on Active Directory home lab built with Windows Server 2
 
 ## Folder Structure
 Screenshots/01-Domain Controller.png
-
+https://github.com/IT-Gozzy/Active-Directory-/tree/bd29906154002237a2e85aeefc95129a313ee1d0/Screenshots
